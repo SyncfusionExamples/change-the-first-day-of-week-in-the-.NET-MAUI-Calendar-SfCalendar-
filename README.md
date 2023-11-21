@@ -1,13 +1,13 @@
 # How to Change the First Day of the Week in the .NET MAUI Calendar (SfCalendar)
 
-This repository contains a sample to change the first day of week in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
+This repository contains a sample to change the first day of week in the [SfCalendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13892/how-to-change-the-first-day-of-the-week-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
 This project used the following Syncfusion control(s):
-* [SfCalendar](https://www.syncfusion.com/maui-controls/maui-calendar)
+* [Syncfusion .NET MAUI Calendar](https://www.syncfusion.com/maui-controls/maui-calendar)
 
 ## Supported platforms
 
